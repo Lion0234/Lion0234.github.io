@@ -1,0 +1,19 @@
+.mos {
+  font-weight: bolder;
+  color: rgb(200, 255, 0);
+  background-color: #0050fc71;
+  margin-left: 10px;
+}
+.textbox {
+  box-align: "left";
+}
+
+.label{
+  font-weight: bold;
+}
+
+.confirm_button{
+margin-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
